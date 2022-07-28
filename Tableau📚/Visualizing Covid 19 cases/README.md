@@ -1,8 +1,5 @@
 # Visualizing COVID-19 cases
-- data : [Our World in Data](https://ourworldindata.org/coronavirus-source-data)
-- reference : [빅스스타](https://www.youtube.com/watch?v=IiGRhhhjAS8)
-
-## 주제 : **아프리카 코로나 확진자**
+## 주제1 : **아프리카 코로나 확진자**
   - 아프리카 국가별 코로나 확진자 대시보드
     - 막대그래프
     - 그룹 설정
@@ -20,3 +17,7 @@
 ![지역별 확진자 추이](https://user-images.githubusercontent.com/88447983/181408167-d208db6a-e09c-4b09-b202-0b28a5fcea32.png)
 ### 아프리카 국가별 확진자수 맵
 ![시도별 일간 확진자](https://user-images.githubusercontent.com/88447983/181408247-4033bf74-b7a2-45eb-804e-55db6c882421.png)
+
+## 참고
+- data : [Our World in Data](https://ourworldindata.org/coronavirus-source-data)
+- reference : [빅스스타](https://www.youtube.com/watch?v=IiGRhhhjAS8)
